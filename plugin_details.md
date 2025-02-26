@@ -57,4 +57,4 @@
 |issue in config file for (https://codeberg.org/kaathewise/nugins/src/branch/trunk/template)|0.0||⚠️0.99.0|⚠️0.99.0|
 |issue in config file for (https://github.com/tesujimath/nu_plugin_bash_env)|0.0||⛔0.0|⛔0.0|
 
-last update at `2025-02-19 03:14:35 +00:00`
+last update at `2025-02-26 03:16:51 +00:00`
