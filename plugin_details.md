@@ -5,7 +5,7 @@
 |[nu_plugin_bin_reader](https://github.com/WindSoilder/nu_plugin_bin_reader)|0.0.0|A high level, general binary data reader.|⛔0.0|⛔0.0|
 |[nu_plugin_bio](https://github.com/Euphrasiologist/nu_plugin_bio)|0.85.0|Parse and manipulate common bioinformatic formats in nushell.|⚠️0.85.0|⚠️0.85.0|
 |[nu_plugin_clipboard](https://github.com/FMotalleb/nu_plugin_clipboard)|0.103.0|A nushell plugin to copy text into clipboard or get text from it.|✅0.103.0|✅0.103.0|
-|[nu_plugin_compress](https://github.com/yybit/nu_plugin_compress)|0.2.4|A nushell plugin for compression and decompression, supporting zstd, gzip, bzip2, and xz.|⚠️0.102.0|⚠️0.102.0|
+|[nu_plugin_compress](https://github.com/yybit/nu_plugin_compress)|0.2.5|A nushell plugin for compression and decompression, supporting zstd, gzip, bzip2, and xz.|✅0.103.0|✅0.103.0|
 |[nu_plugin_dbus](https://github.com/devyn/nu_plugin_dbus)|0.14.0|Nushell plugin for communicating with D-Bus|⚠️0.101.0|⚠️0.101.0|
 |[nu_plugin_dcm](https://github.com/realcundo/nu_plugin_dcm)|0.1.8|A nushell plugin to parse Dicom files|⚠️0.68|⚠️0.68|
 |[nu_plugin_desktop_notifications](https://github.com/FMotalleb/nu_plugin_desktop_notifications)|1.2.10|A nushell plugin to send desktop notifications|✅0.103.0|✅0.103.0|
@@ -25,7 +25,7 @@
 |[nu_plugin_hcl](https://github.com/Yethal/nu_plugin_hcl)|0.100.0|A nushell plugin for parsing Hashicorp Configuration Language file format|⚠️0.100.0|⚠️0.100.0|
 |[nu_plugin_highlight](https://github.com/cptpiepmatz/nu-plugin-highlight)|1.4.4+0.103.0|A nushell plugin for syntax highlighting|✅0.103.0|✅0.103.0|
 |[nu_plugin_hmac](https://github.com/fnuttens/nu_plugin_hmac)|0.16.0|A HMAC sealing plugin for Nushell|✅0.103.0|✅0.103.0|
-|[nu_plugin_image](https://github.com/FMotalleb/nu_plugin_image)|0.102.0|A nushell plugin to open png images in the shell and save ansi string as images (like tables or ...)|⚠️0.102.0|⚠️0.102.0|
+|[nu_plugin_image](https://github.com/FMotalleb/nu_plugin_image)|0.103.0|A nushell plugin to open png images in the shell and save ansi string as images (like tables or ...)|✅0.103.0|✅0.103.0|
 |[nu_plugin_inc](https://github.com/nushell/nushell/tree/main/crates/nu_plugin_inc)|0.103.1|A version incrementer plugin for Nushell|✅0.103.1|✅0.103.1|
 |[nu_plugin_json_path](https://github.com/fdncred/nu_plugin_json_path)|0.13.0|a nushell plugin created to parse json files using jsonpath|✅0.103.0|✅0.103.0|
 |[nu_plugin_kdl](https://github.com/amtoine/nu_plugin_kdl)|0.83.2|Add support for the KDL data format to Nushell.|⚠️0.83.2|⚠️0.83.2|
@@ -45,16 +45,16 @@
 |[nu_plugin_qr_maker](https://github.com/FMotalleb/nu_plugin_qr_maker)|1.1.0|A nushell plugin to create qr code in terminal|⚠️0.94.0|⚠️0.94.0|
 |[nu_plugin_query](https://github.com/nushell/nushell/tree/main/crates/nu_plugin_query)|0.103.1|A Nushell plugin to query JSON, XML, and various web data|✅0.103.1|✅0.103.1|
 |[nu_plugin_regex](https://github.com/fdncred/nu_plugin_regex)|0.12.0|nu plugin to search text with regex|✅0.103.0|✅0.103.0|
-|[nu_plugin_rpm](https://github.com/yybit/nu_plugin_rpm)|0.3.2|A nushell plugin for reading rpm package.|⚠️0.102.0|⚠️0.102.0|
+|[nu_plugin_rpm](https://github.com/yybit/nu_plugin_rpm)|0.3.3|A nushell plugin for reading rpm package.|✅0.103.0|✅0.103.0|
 |[nu_plugin_semver](https://github.com/abusch/nu_plugin_semver)|0.11.3|A nushell plugin for dealing with SemVer versions|✅0.103.0|✅0.103.0|
 |[nu_plugin_skim](https://github.com/idanarye/nu_plugin_skim)|0.13.0|An `sk` command that can handle Nushell's structured data|✅0.103|✅0.103|
 |[nu_plugin_str_similarity](https://github.com/fdncred/nu_plugin_str_similarity)|0.7.0|a nushell plugin called str_similarity|⚠️0.98.0|⚠️0.98.0|
 |[nu_plugin_template](https://github.com/fdncred/nu_plugin_template)|0.0|A `cargo-generate` template for making it easier to create nushell plugins.|⛔0.0|⛔0.0|
 |[nu_plugin_ulid](https://github.com/lizclipse/nu_plugin_ulid)|0.12.0|A nushell plugin that adds various ulid commands|✅0.103.0|✅0.103.0|
-|[nu_plugin_units](https://github.com/JosephTLyons/nu_plugin_units)|0.1.4|A Nushell plugin for easily converting between common units|⚠️0.101.0|⚠️0.101.0|
+|[nu_plugin_units](https://github.com/JosephTLyons/nu_plugin_units)|0.1.5|A Nushell plugin for easily converting between common units|✅0.103.0|✅0.103.0|
 |[nu_plugin_vec](https://github.com/PhotonBursted/nu_plugin_vec)|1.1.5|A Nushell plugin implementing vector operations|✅0.103.0|✅0.103.0|
 |issue in config file for (https://codeberg.org/kaathewise/nugins/src/branch/trunk/endecode)|0.0||⚠️0.99.0|⚠️0.99.0|
 |issue in config file for (https://codeberg.org/kaathewise/nugins/src/branch/trunk/template)|0.0||⚠️0.99.0|⚠️0.99.0|
 |issue in config file for (https://github.com/tesujimath/nu_plugin_bash_env)|0.0||⛔0.0|⛔0.0|
 
-last update at `2025-04-02 03:27:02 +00:00`
+last update at `2025-04-09 03:27:01 +00:00`
