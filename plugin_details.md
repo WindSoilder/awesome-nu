@@ -21,7 +21,7 @@
 |[nu_plugin_from_hdf5](https://github.com/Berrysoft/nu_plugin_from_hdf5)|0.1.0|A plugin to parse HDF5 files into nushell record.|⚠️0.100|⚠️0.100|
 |[nu_plugin_from_sse](https://github.com/cablehead/nu_plugin_from_sse)|0.101.0|Nushell plugin to convert a HTTP server sent event stream to structured data|⚠️0.101.0|⚠️0.101.0|
 |[nu_plugin_gstat](https://github.com/nushell/nushell/tree/main/crates/nu_plugin_gstat)|0.103.1|A git status plugin for Nushell|✅0.103.1|✅0.103.1|
-|[nu_plugin_hashes](https://github.com/ArmoredPony/nu_plugin_hashes)|0.1.6|A Nushell plugin that adds 61 cryptographic hash functions from Hashes project|⚠️0.102.0|⚠️0.102.0|
+|[nu_plugin_hashes](https://github.com/ArmoredPony/nu_plugin_hashes)|0.1.7|A Nushell plugin that adds 63 cryptographic hash functions from Hashes project|✅0.103.0|✅0.103.0|
 |[nu_plugin_hcl](https://github.com/Yethal/nu_plugin_hcl)|0.100.0|A nushell plugin for parsing Hashicorp Configuration Language file format|⚠️0.100.0|⚠️0.100.0|
 |[nu_plugin_highlight](https://github.com/cptpiepmatz/nu-plugin-highlight)|1.4.4+0.103.0|A nushell plugin for syntax highlighting|✅0.103.0|✅0.103.0|
 |[nu_plugin_hmac](https://github.com/fnuttens/nu_plugin_hmac)|0.16.0|A HMAC sealing plugin for Nushell|✅0.103.0|✅0.103.0|
@@ -57,4 +57,4 @@
 |issue in config file for (https://codeberg.org/kaathewise/nugins/src/branch/trunk/template)|0.0||⚠️0.99.0|⚠️0.99.0|
 |issue in config file for (https://github.com/tesujimath/nu_plugin_bash_env)|0.0||⛔0.0|⛔0.0|
 
-last update at `2025-04-16 03:30:41 +00:00`
+last update at `2025-04-23 03:30:17 +00:00`
