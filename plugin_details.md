@@ -1,6 +1,5 @@
 |name|version|description|plugin|protocol|
 |-|-|-|-|-|
-|[nu-plugin-bexpand](https://codeberg.org/Taywee/nu-plugin-bexpand)|1.3.5|A brace expansion plugin compatible with Bash for nushell|⚠️0.92|⚠️0.92|
 |[nu_plugin_audio_hook](https://github.com/FMotalleb/nu_plugin_audio_hook)|0.110.0|A nushell plugin to make and play sounds|⚠️0.110.0|⚠️0.110.0|
 |[nu_plugin_bin_reader](https://github.com/WindSoilder/nu_plugin_bin_reader)|0.0.0|A high level, general binary data reader.|⛔0.0|⛔0.0|
 |[nu_plugin_bio](https://github.com/Euphrasiologist/nu_plugin_bio)|0.104.0|Parse and manipulate common bioinformatic formats in nushell.|⚠️0.104.0|⚠️0.104.0|
@@ -53,8 +52,9 @@
 |[nu_plugin_ulid](https://github.com/lizclipse/nu_plugin_ulid)|0.20.0|A nushell plugin that adds various ulid commands|✅0.111.0|✅0.111.0|
 |[nu_plugin_units](https://github.com/JosephTLyons/nu_plugin_units)|0.1.8|A Nushell plugin for easily converting between common units|⚠️0.106.1|⚠️0.106.1|
 |[nu_plugin_vec](https://github.com/PhotonBursted/nu_plugin_vec)|1.1.6|A Nushell plugin implementing vector operations|⚠️0.105.1|⚠️0.105.1|
+|issue in config file for (https://codeberg.org/Taywee/nu-plugin-bexpand)|0.0||⛔0.0|⛔0.0|
 |issue in config file for (https://codeberg.org/kaathewise/nugins/src/branch/trunk/endecode)|0.0||⚠️0.99.0|⚠️0.99.0|
 |issue in config file for (https://codeberg.org/kaathewise/nugins/src/branch/trunk/template)|0.0||⚠️0.99.0|⚠️0.99.0|
 |issue in config file for (https://github.com/tesujimath/nu_plugin_bash_env)|0.0||⛔0.0|⛔0.0|
 
-last update at `2026-03-18 04:49:49 +00:00`
+last update at `2026-03-25 04:47:54 +00:00`
