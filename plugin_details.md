@@ -24,7 +24,7 @@
 |[nu_plugin_inc](https://github.com/nushell/nushell/tree/main/crates/nu_plugin_inc)|0.112.3|A version incrementer plugin for Nushell|✅0.112.3|✅0.112.3|
 |[nu_plugin_json_path](https://github.com/fdncred/nu_plugin_json_path)|0.22.0|a nushell plugin created to parse json files using jsonpath|✅0.112.2|✅0.112.2|
 |[nu_plugin_kdl](https://github.com/amtoine/nu_plugin_kdl)|0.83.2|Add support for the KDL data format to Nushell.|⚠️0.83.2|⚠️0.83.2|
-|[nu_plugin_mime](https://github.com/kik4444/nu_plugin_mime)|0.111.0|A simple plugin for working with mime types without performing disk access|⚠️0.111.0|⚠️0.111.0|
+|[nu_plugin_mime](https://github.com/kik4444/nu_plugin_mime)|0.112.2|A simple plugin for working with mime types without performing disk access|✅0.112.2|✅0.112.2|
 |[nu_plugin_msgpack](https://github.com/hulthe/nu_plugin_msgpack)|0.90.1|Commands to convert nushell data to and from MsgPack|⚠️0.90.1|⚠️0.90.1|
 |[nu_plugin_net](https://github.com/fennewald/nu_plugin_net)|1.10.0|A nushell plugin for enumerating network interfaces in a platform-agnostic way|⚠️0.104.0|⚠️0.104.0|
 |[nu_plugin_parquet](https://github.com/fdncred/nu_plugin_parquet)|0.22.0|nu plugin to add parquet support|✅0.112.2|✅0.112.2|
@@ -57,4 +57,4 @@
 |issue in config file for (https://github.com/FMotalleb/nu_plugin_qr_maker)|0.0||⛔0.0|⛔0.0|
 |issue in config file for (https://github.com/tesujimath/nu_plugin_bash_env)|0.0||⛔0.0|⛔0.0|
 
-last update at `2026-05-06 05:47:29 +00:00`
+last update at `2026-05-13 06:16:06 +00:00`
