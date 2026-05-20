@@ -57,4 +57,4 @@
 |issue in config file for (https://github.com/FMotalleb/nu_plugin_qr_maker)|0.0||⛔0.0|⛔0.0|
 |issue in config file for (https://github.com/tesujimath/nu_plugin_bash_env)|0.0||⛔0.0|⛔0.0|
 
-last update at `2026-05-13 06:16:06 +00:00`
+last update at `2026-05-20 06:38:36 +00:00`
