@@ -13,7 +13,7 @@
 |[nu_plugin_dpkgtable](https://github.com/pdenapo/nu_plugin_dpkgtable)|0.1.0||✅0.111.0|✅0.111.0|
 |[nu_plugin_emoji](https://github.com/fdncred/nu_plugin_emoji)|0.22.0|a nushell plugin called emoji|✅0.113.0|✅0.113.0|
 |[nu_plugin_explore](https://github.com/amtoine/nu_plugin_explore)|0.102.0|A fast structured data explorer for Nushell.|✅0.102.0|✅0.102.0|
-|[nu_plugin_file](https://github.com/fdncred/nu_plugin_file)|0.24.0|a nushell plugin called file|✅0.113.0|✅0.113.0|
+|[nu_plugin_file](https://github.com/fdncred/nu_plugin_file)|0.25.2|a nushell plugin called file|✅0.113.0|✅0.113.0|
 |[nu_plugin_formats](https://github.com/nushell/nushell/tree/main/crates/nu_plugin_formats)|{workspace: true}|An I/O plugin for a set of file formats for Nushell|⛔0.0.0|⛔0.0.0|
 |[nu_plugin_from_beancount](https://github.com/jcornaz/nu_plugin_from_beancount)|2.0.0|A nushell extension to load a beancount file into nu structured data|✅0.84.0|✅0.84.0|
 |[nu_plugin_from_bencode](https://github.com/bluk/nu_plugin_from_bencode)|0.11.0|A Nushell plugin to convert bencode data into Nu structured values.|✅0.111|✅0.111|
@@ -57,4 +57,4 @@
 |issue in config file for (https://codeberg.org/kaathewise/nugins/src/branch/trunk/template)|0.0||✅0.99.0|✅0.99.0|
 |issue in config file for (https://github.com/tesujimath/nu_plugin_bash_env)|0.0||⛔0.0|⛔0.0|
 
-last update at `2026-06-03 08:04:10 +00:00`
+last update at `2026-06-10 06:56:59 +00:00`
