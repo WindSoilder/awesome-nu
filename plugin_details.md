@@ -46,10 +46,10 @@
 |[nu_plugin_regex](https://github.com/fdncred/nu_plugin_regex)|0.22.0|nu plugin to search text with regex|✅0.113.0|✅0.113.0|
 |[nu_plugin_rpm](https://github.com/yybit/nu_plugin_rpm)|0.3.6|A nushell plugin for reading rpm package.|✅0.108.0|✅0.108.0|
 |[nu_plugin_semver](https://github.com/abusch/nu_plugin_semver)|0.11.17|A nushell plugin for dealing with SemVer versions|✅0.113.0|✅0.113.0|
-|[nu_plugin_skim](https://github.com/idanarye/nu_plugin_skim)|0.28.0|An `sk` command that can handle Nushell's structured data|✅0.113|✅0.113|
+|[nu_plugin_skim](https://github.com/idanarye/nu_plugin_skim)|0.29.1|An `sk` command that can handle Nushell's structured data|✅0.114|✅0.114|
 |[nu_plugin_str_similarity](https://github.com/fdncred/nu_plugin_str_similarity)|0.7.0|a nushell plugin called str_similarity|✅0.98.0|✅0.98.0|
 |[nu_plugin_template](https://github.com/fdncred/nu_plugin_template)|0.0|A `cargo-generate` template for making it easier to create nushell plugins.|⛔0.0|⛔0.0|
-|[nu_plugin_ulid](https://github.com/lizclipse/nu_plugin_ulid)|0.22.0|A nushell plugin that adds various ulid commands|✅0.113.0|✅0.113.0|
+|[nu_plugin_ulid](https://github.com/lizclipse/nu_plugin_ulid)|0.23.0|A nushell plugin that adds various ulid commands|✅0.114.0|✅0.114.0|
 |[nu_plugin_units](https://github.com/JosephTLyons/nu_plugin_units)|0.1.8|A Nushell plugin for easily converting between common units|✅0.106.1|✅0.106.1|
 |[nu_plugin_vec](https://github.com/PhotonBursted/nu_plugin_vec)|1.1.6|A Nushell plugin implementing vector operations|✅0.105.1|✅0.105.1|
 |issue in config file for (https://codeberg.org/Taywee/nu-plugin-bexpand)|0.0||⛔0.0|⛔0.0|
@@ -57,4 +57,4 @@
 |issue in config file for (https://codeberg.org/kaathewise/nugins/src/branch/trunk/template)|0.0||✅0.99.0|✅0.99.0|
 |issue in config file for (https://github.com/tesujimath/nu_plugin_bash_env)|0.0||⛔0.0|⛔0.0|
 
-last update at `2026-07-01 07:02:58 +00:00`
+last update at `2026-07-08 05:40:33 +00:00`
