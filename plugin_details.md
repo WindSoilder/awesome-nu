@@ -9,7 +9,7 @@
 |[nu_plugin_dcm](https://github.com/realcundo/nu_plugin_dcm)|0.8.0|A nushell plugin to parse Dicom files and DICOMweb records|✅0.108.0|✅0.108.0|
 |[nu_plugin_desktop_notifications](https://github.com/FMotalleb/nu_plugin_desktop_notifications)|0.114.1|A nushell plugin to send desktop notifications|✅0.114.1|✅0.114.1|
 |[nu_plugin_dialog](https://github.com/Trivernis/nu-plugin-dialog)|0.2.0|A nushell plugin for user interaction|✅0.86.1|✅0.86.1|
-|[nu_plugin_dns](https://github.com/dead10ck/nu_plugin_dns)|4.0.11-alpha.1|A DNS utility for nushell|✅0.113.0|✅0.113.0|
+|[nu_plugin_dns](https://github.com/dead10ck/nu_plugin_dns)|4.0.12-alpha.1|A DNS utility for nushell|✅0.114.1|✅0.114.1|
 |[nu_plugin_dpkgtable](https://github.com/pdenapo/nu_plugin_dpkgtable)|0.1.0||✅0.111.0|✅0.111.0|
 |[nu_plugin_emoji](https://github.com/fdncred/nu_plugin_emoji)|0.23.0|a nushell plugin called emoji|✅0.114.0|✅0.114.0|
 |[nu_plugin_explore](https://github.com/amtoine/nu_plugin_explore)|0.102.0|A fast structured data explorer for Nushell.|✅0.102.0|✅0.102.0|
@@ -57,4 +57,4 @@
 |issue in config file for (https://codeberg.org/kaathewise/nugins/src/branch/trunk/template)|0.0||✅0.99.0|✅0.99.0|
 |issue in config file for (https://github.com/tesujimath/nu_plugin_bash_env)|0.0||⛔0.0|⛔0.0|
 
-last update at `2026-08-05 05:35:18 +00:00`
+last update at `2026-08-12 04:39:39 +00:00`
