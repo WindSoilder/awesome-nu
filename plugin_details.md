@@ -7,7 +7,7 @@
 |[nu_plugin_compress](https://github.com/yybit/nu_plugin_compress)|0.2.10|A nushell plugin for compression and decompression, supporting zstd, gzip, bzip2, and xz.|✅0.112.1|✅0.112.1|
 |[nu_plugin_dbus](https://github.com/devyn/nu_plugin_dbus)|0.14.0|Nushell plugin for communicating with D-Bus|✅0.101.0|✅0.101.0|
 |[nu_plugin_dcm](https://github.com/realcundo/nu_plugin_dcm)|0.8.0|A nushell plugin to parse Dicom files and DICOMweb records|✅0.108.0|✅0.108.0|
-|[nu_plugin_desktop_notifications](https://github.com/FMotalleb/nu_plugin_desktop_notifications)|0.114.1|A nushell plugin to send desktop notifications|✅0.114.1|✅0.114.1|
+|[nu_plugin_desktop_notifications](https://github.com/FMotalleb/nu_plugin_desktop_notifications)|0.115.0|A nushell plugin to send desktop notifications|✅0.115.0|✅0.115.0|
 |[nu_plugin_dialog](https://github.com/Trivernis/nu-plugin-dialog)|0.2.0|A nushell plugin for user interaction|✅0.86.1|✅0.86.1|
 |[nu_plugin_dns](https://github.com/dead10ck/nu_plugin_dns)|4.0.12-alpha.1|A DNS utility for nushell|✅0.114.1|✅0.114.1|
 |[nu_plugin_dpkgtable](https://github.com/pdenapo/nu_plugin_dpkgtable)|0.1.0||✅0.111.0|✅0.111.0|
@@ -28,7 +28,7 @@
 |[nu_plugin_inc](https://github.com/nushell/nushell/tree/main/crates/nu_plugin_inc)|{workspace: true}|A version incrementer plugin for Nushell|⛔0.0.0|⛔0.0.0|
 |[nu_plugin_json_path](https://github.com/fdncred/nu_plugin_json_path)|0.24.0|a nushell plugin created to parse json files using jsonpath|✅0.114.0|✅0.114.0|
 |[nu_plugin_kdl](https://github.com/amtoine/nu_plugin_kdl)|0.83.2|Add support for the KDL data format to Nushell.|✅0.83.2|✅0.83.2|
-|[nu_plugin_mime](https://github.com/kik4444/nu_plugin_mime)|0.112.2|A simple plugin for working with mime types without performing disk access|✅0.112.2|✅0.112.2|
+|[nu_plugin_mime](https://github.com/kik4444/nu_plugin_mime)|0.114.1|A simple plugin for working with mime types without performing disk access|✅0.114.1|✅0.114.1|
 |[nu_plugin_msgpack](https://github.com/hulthe/nu_plugin_msgpack)|0.90.1|Commands to convert nushell data to and from MsgPack|✅0.90.1|✅0.90.1|
 |[nu_plugin_net](https://github.com/fennewald/nu_plugin_net)|1.10.0|A nushell plugin for enumerating network interfaces in a platform-agnostic way|✅0.104.0|✅0.104.0|
 |[nu_plugin_parquet](https://github.com/fdncred/nu_plugin_parquet)|0.24.0|nu plugin to add parquet support|✅0.114.0|✅0.114.0|
@@ -40,13 +40,13 @@
 |[nu_plugin_pnet](https://github.com/fdncred/nu_plugin_pnet)|1.7.0|A nushell plugin for enumerating network interfaces in a platform-agnostic way|✅0.97.2|✅0.97.2|
 |[nu_plugin_port_list](https://github.com/FMotalleb/nu_plugin_port_list)|1.4.7|A nushell plugin to list all active connections|✅0.102.0|✅0.102.0|
 |[nu_plugin_port_scan](https://github.com/FMotalleb/nu_plugin_port_scan)|1.2.8|A nushell plugin for scanning ports on a target|✅0.102.0|✅0.102.0|
-|[nu_plugin_prometheus](https://github.com/drbrain/nu_plugin_prometheus)|0.12.0|A nushell plugin for querying prometheus|✅0.114.1|✅0.114.1|
+|[nu_plugin_prometheus](https://github.com/drbrain/nu_plugin_prometheus)|0.14.0|A nushell plugin for querying prometheus|✅0.115|✅0.115|
 |[nu_plugin_qr_maker](https://github.com/FMotalleb/nu_plugin_qr_maker)|1.1.0|A nushell plugin to create qr code in terminal|✅0.94.0|✅0.94.0|
 |[nu_plugin_query](https://github.com/nushell/nushell/tree/main/crates/nu_plugin_query)|{workspace: true}|A Nushell plugin to query JSON, XML, and various web data|⛔0.0.0|⛔0.0.0|
 |[nu_plugin_regex](https://github.com/fdncred/nu_plugin_regex)|0.23.0|nu plugin to search text with regex|✅0.114.0|✅0.114.0|
 |[nu_plugin_rpm](https://github.com/yybit/nu_plugin_rpm)|0.3.6|A nushell plugin for reading rpm package.|✅0.108.0|✅0.108.0|
 |[nu_plugin_semver](https://github.com/abusch/nu_plugin_semver)|0.11.17|A nushell plugin for dealing with SemVer versions|✅0.113.0|✅0.113.0|
-|[nu_plugin_skim](https://github.com/idanarye/nu_plugin_skim)|0.29.1|An `sk` command that can handle Nushell's structured data|✅0.114|✅0.114|
+|[nu_plugin_skim](https://github.com/idanarye/nu_plugin_skim)|0.30.0|An `sk` command that can handle Nushell's structured data|✅0.115|✅0.115|
 |[nu_plugin_str_similarity](https://github.com/fdncred/nu_plugin_str_similarity)|0.7.0|a nushell plugin called str_similarity|✅0.98.0|✅0.98.0|
 |[nu_plugin_template](https://github.com/fdncred/nu_plugin_template)|0.0|A `cargo-generate` template for making it easier to create nushell plugins.|⛔0.0|⛔0.0|
 |[nu_plugin_ulid](https://github.com/lizclipse/nu_plugin_ulid)|0.23.0|A nushell plugin that adds various ulid commands|✅0.114.0|✅0.114.0|
@@ -57,4 +57,4 @@
 |issue in config file for (https://codeberg.org/kaathewise/nugins/src/branch/trunk/template)|0.0||✅0.99.0|✅0.99.0|
 |issue in config file for (https://github.com/tesujimath/nu_plugin_bash_env)|0.0||⛔0.0|⛔0.0|
 
-last update at `2026-08-12 04:39:39 +00:00`
+last update at `2026-08-19 03:36:39 +00:00`
